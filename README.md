@@ -18,4 +18,3 @@ Completo
 # FEATURES
 . Abstrair formula [x]                                                                                             
 . Criar condicionais [x]                              
-. Otimizar projeto [x] 
